@@ -68,9 +68,7 @@ Heart disease is the world's leading cause of death — 17.9 million lives lost 
 | Algorithm | Accuracy |
 |-----------|----------|
 | **Random Forest** | **78.6%** ← best |
-| SVM | — |
-| Naive Bayes | — |
-| Decision Tree | — |
+
 
 | Metric | Value |
 |--------|-------|
